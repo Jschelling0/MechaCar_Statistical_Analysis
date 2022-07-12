@@ -39,7 +39,6 @@ Lot 3:
 Lot 3 was different then the other two lots. First in terms of its p-value, which was below .05, at .042, and a sample mean of 1496.1. The p-value is lower than the signifiance level of .05, leading to rejecting the null hyptohesis.
  
 ## Study Design: MechaCar vs Competition
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 ### Metrics to be used
 Car engine: Hybrid vs. Gasoline
