@@ -38,3 +38,18 @@ Lot 3:
 ![image](t.test_lot3.png)
 Lot 3 was different then the other two lots. First in terms of its p-value, which was below .05, at .042, and a sample mean of 1496.1. The p-value is lower than the signifiance level of .05, leading to rejecting the null hyptohesis.
  
+## Study Design: MechaCar vs Competition
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+### Metrics to be used
+Car engine: Hybrid vs. Gasoline
+Distance traveled on a full tank of gas
+### Hypothesis
+#### Null hypotheis: 
+Hybrid car drivers get higher mpg than gasoline cars
+#### Alternate hypothesis: 
+Hybrid car drivers get similiar mpg as gasoline cars
+### Statistical test
+Since this hypothesis would have a single independent variable, a linear regression would be use to determine the correlation of hybrid cars and their mpg
+### Data Needed
+Data that would be collected to compare whether hybrid cars get similiar mpg to traditional gasoline vehiciles would be car data from the past five years, comparing hybrid vehicles with similar gasoline vehiciles in the same class. For example, data comparing a hybrid Toyota Corolla, with a gaoline powered Corolla of the same year.
